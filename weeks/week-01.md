@@ -10,7 +10,7 @@ permalink: /weeks/week-01/
 > 請保留具體的現場、材料、語句或身體感受。
 > 
 ## TRACE｜痕跡
-![共同繪製的教室導航地圖]({{ '/assets/images/w01-navigation-map.jpg' |
+![共同繪製的教室導航地圖]({{ '/assets/images/000073550005.jpg' |
 relative_url }})
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
